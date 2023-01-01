@@ -5,3 +5,6 @@
 Check the commit comments to see the compilation date.
 
 
+# Happy new year !
+![title](https://github.com/m1ch3al/flipper-zero-rogue-master-firmware/blob/main/happy_new_year.jpg?raw=true)
+
