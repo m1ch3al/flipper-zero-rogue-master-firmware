@@ -1,0 +1,3 @@
+[submodule "flipperzero-firmware-wPlugins"]
+	path = flipperzero-firmware-wPlugins
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
