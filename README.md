@@ -7,6 +7,8 @@
 ## -> Download [RogueMaster_2023-01-05.zip](https://github.com/m1ch3al/flipper-zero-rogue-master-firmware/raw/main/RogueMaster_2023-01-05.zip)
 
 **Automatic build and update chain of the Rogue Master Firmware for your amazing Flip.x0.**
+
+
 Check the commit comments to see the compilation date.
 
 ![header](https://github.com/m1ch3al/flipper-zero-rogue-master-firmware/blob/main/images/happy_new_year.jpg?raw=true)
