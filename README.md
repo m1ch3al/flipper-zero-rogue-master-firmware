@@ -3,8 +3,8 @@
 
 ## Here, the official repository of the RogueMaster firmware: [https://github.com/RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
-## Compilation date : 2023-05-28 
-## -> Download [RogueMaster_2023-05-28.zip](https://github.com/m1ch3al/flipper-zero-rogue-master-firmware/raw/main/RogueMaster_2023-05-28.zip)
+## Compilation date : 2023-05-29 
+## -> Download [RogueMaster_2023-05-29.zip](https://github.com/m1ch3al/flipper-zero-rogue-master-firmware/raw/main/RogueMaster_2023-05-29.zip)
 
 **Automatic build and update chain of the Rogue Master Firmware for your amazing Flip.x0.**
 
